@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aanshi R Kumar</h1>
 <h3 align="center">A passionate frontend developer and AIML enthusiast from India</h3>
-<img align="right" alt="coding" width=400 src="https://www.bing.com/images/search?view=detailV2&ccid=6qnP8ZHE&id=94C2742E66FDBE1E0AE330B82EFEFD040875DCE6&thid=OIP.6qnP8ZHESN0IhK15TWdahAHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f2704414%2fscreenshots%2f7466903%2fmedia%2fb08ab576316bd4582fef189f471cd9e5.gif&exph=600&expw=800&q=Girl+Coding+GIF&simid=607988982730799254&FORM=IRPRST&ck=222CF8F3BA7BC992AE798E835963AE04&selectedIndex=0&itb=0&ajaxhist=0&ajaxserp=0">
+<img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annz-gif&label=Profile%20views&color=0e75b6&style=flat" alt="annz-gif" /> </p>
 
