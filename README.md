@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer and AIML enthusiast from India</h3>
 <img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=annz-gif&label=Profile%20views&color=0e75b6&style=flat" alt="annz-gif" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/annz02_" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/annz02_?logo=twitter&style=for-the-badge" alt="https://x.com/annz02_" /></a> </p>
+
+
 
 - 🔭 I’m currently working on **full stack development**
 
