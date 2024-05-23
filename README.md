@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer and AIML enthusiast from India</h3>
 <img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=annz-gif&label=Profile%20views&color=0e75b6&style=flat" alt="annz-gif" /> </p>
 
-
-
+<p align="left"> <a href="https://twitter.com/https://x.com/annz02_" target="blank"></a></p>
 
 - 🔭 I’m currently working on **full stack development**
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/annz02_" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/annz02_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/annz02_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aanshi-kumar-660a49229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aanshi-kumar-660a49229/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/aanshirkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/aanshirkumar" height="30" width="40" /></a>
 <a href="https://instagram.com/aanshi955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aanshi955" height="30" width="40" /></a>
