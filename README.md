@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aanshi R Kumar</h1>
+<h1 align="center">Hi 👋, I'm Aanshi Rakesh Kumar</h1>
 <h3 align="center">A passionate frontend developer and AIML enthusiast from India</h3>
 <img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
