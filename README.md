@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aanshik02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EwytuUrsA-eEyXYVnZD63TUgm4plyL2y/view?usp=sharing](https://drive.google.com/file/d/1EwytuUrsA-eEyXYVnZD63TUgm4plyL2y/view?usp=sharing)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I have many hobbies including dancing,drawing,reading,coding**
 
