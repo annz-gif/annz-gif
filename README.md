@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **projects on Web dev and Computer vision and NLP**
 
-- 💬 Ask me about **AIML,gen ai ,web dev**
+- 💬 Ask me about **AIML,Gen ai ,Web Dev**
 
 - 📫 How to reach me **aanshik02@gmail.com**
 
