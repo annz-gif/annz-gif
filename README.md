@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 👯 I’m looking to collaborate on **projects on Web dev and Computer vision and NLP**
+- 👯 I’m looking to collaborate on **Projects on Web dev and Computer vision and NLP**
 
 - 💬 Ask me about **AIML,Gen AI ,Web Dev**
 
