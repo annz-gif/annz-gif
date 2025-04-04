@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://x.com/annz02_" target="blank"></a></p>
 
-- 🔭 I am currently working on **full stack development**
+- 🔭 I am currently working on **Full stack development**
 
 - 🌱 I’m currently learning **Node js**
 
