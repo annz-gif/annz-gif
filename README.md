@@ -8,7 +8,7 @@
 
 - 🔭 I am currently working on **Full stack development**
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Node JS**
 
 - 👯 I’m looking to collaborate on **Projects on Web Dev and Computer vision and NLP**
 
