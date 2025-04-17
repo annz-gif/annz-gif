@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences 
 
-- ⚡ Fun fact **I have multiple hobbies including dancing,drawing,reading and coding**
+- ⚡ Fun fact **I have multiple hobbies including Dancing,drawing,reading and coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
