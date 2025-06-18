@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Projects on Web Dev ,AIML, Computer Vision and NLP**
+- 👯 I’m looking to collaborate on **Projects on Web Dev ,AIML, Computer Vision (CV) and NLP**
 
 - 💬 Ask me about **AIML,Gen AI ,Web Dev**
 
